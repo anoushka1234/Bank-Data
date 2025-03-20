@@ -7,7 +7,7 @@ The steps I took to build this project were the following:
 
 2.Train Test Split -- Split the dataset into training and testing sets using train_test_split() to ensure the models are evaluated on unseen data.
 
-3. Model Building -- Implemented multiple models including:Logistic Regression,Decision Tree,Random Forest,Support Vector Machine (SVM),k-Nearest Neighbors (kNN)
+3.Model Building -- Implemented multiple models including:Logistic Regression,Decision Tree,Random Forest,Support Vector Machine (SVM),k-Nearest Neighbors (kNN)
    
 4.Model Evaluation -- Evaluated each model using the following metrics: Accuracy Score,Precision Score,Recall Score,F1 Score,Confusion Matrix,Classification Report
 
